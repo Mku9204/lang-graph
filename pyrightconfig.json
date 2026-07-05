@@ -1,0 +1,17 @@
+{
+  "include": [
+    "conditional",
+    "iterative_workflow",
+    "parallel",
+    "sequential"
+  ],
+  "exclude": [
+    ".venv",
+    "typings",
+    "**/typings/**",
+    "**/.ipynb_checkpoints/**"
+  ],
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.13"
+}
