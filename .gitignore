@@ -1,3 +1,4 @@
 .env
 .venv
 /typings/**
+__pycache__
